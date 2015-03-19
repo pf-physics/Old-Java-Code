@@ -1,0 +1,11 @@
+bpm = 1000
+name = Let It Snow(www.youtube.com/watch?v(equals)jOVXcIc_jJw)
+soundbank = ./data/soundbanks/nes.sf2
+instrument = 80
+track = 8P4C4C>4C4C<8B!8A8G8F15CP4C4C12G4F12G4F8E16C
+instrument = 80
+track = 8P4P4P4P4P8P8P8P8P16P4P4P12C4P12C!4P<8B!16P
+instrument = 111
+track = <16C>16A<16C>16A<16C16F16E22C
+instrument = 111
+track = <16P16F16P16F16P16A16A!16G16P
